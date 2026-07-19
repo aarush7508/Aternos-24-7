@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "24/7 BOT",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1800,
       "messages": [
-        "I'm a regular player",
+        "Welcome Everyone",
         "Subscribe to Aarvix!",
-        "Join Discord Server - https://discord.gg/MTSqjne48"
       ]
     },
     "chat-log": true,
