@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7 BOT",
+    "username": "AFK Bot",
     "password": "",
     "type": "offline"
   },
@@ -31,8 +31,9 @@
       "repeat": true,
       "repeat-delay": 1800,
       "messages": [
-        "Welcome Everyone",
+        "Don't Fight",
         "Subscribe to Aarvix!",
+        "Welcome to the Server"
       ]
     },
     "chat-log": true,
