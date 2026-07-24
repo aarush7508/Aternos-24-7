@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AFK BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Aarvix.aternos.me",
-    "port": 46457,
+    "ip": "aarvix.play.hosting",
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
