@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK BOT",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "aarvix.play.hosting",
-    "port": ,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to Aarvix!",
-        "Join Discord"
+        "Join Discord Server"
       ]
     },
     "chat-log": true,
